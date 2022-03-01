@@ -1,0 +1,42 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    
+    
+}
+
+#input {
+    display: flex;
+    padding: 3%;
+    
+}
+
+#submit {
+    margin: 3%;
+}
+
+#clear-list {
+    margin: 3% ;
+}
+
+#text-input {
+    margin: 3%;
+}
+
+button {
+    min-width: 30%;
+}
+
+#append-text {
+    border: 2px solid black;
+    width: 50%;
+    
+}
